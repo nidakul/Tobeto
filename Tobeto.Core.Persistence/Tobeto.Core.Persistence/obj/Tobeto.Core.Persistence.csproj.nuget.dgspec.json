@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/Tobeto.Core.Persistence.csproj": {}
+  },
+  "projects": {
+    "/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/Tobeto.Core.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/Tobeto.Core.Persistence.csproj",
+        "projectName": "Tobeto.Core.Persistence",
+        "projectPath": "/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/Tobeto.Core.Persistence.csproj",
+        "packagesPath": "/Users/nida/.nuget/packages/",
+        "outputPath": "/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nida/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.3.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

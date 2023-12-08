@@ -1,0 +1,38 @@
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Domain.dll
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Tobeto.Core.Persistence.dll
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Tobeto.Core.Persistence.pdb
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.CopyComplete
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.dll
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/nida/Projects/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.dll
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Domain.dll
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Tobeto.Core.Persistence.dll
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/bin/Debug/net7.0/Tobeto.Core.Persistence.pdb
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.CopyComplete
+/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.dll
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/nida/Projects/Tobeto/adsız klasör/TobetoCourseAcademyCleanArchitecture/Domain/obj/Debug/net7.0/Domain.pdb

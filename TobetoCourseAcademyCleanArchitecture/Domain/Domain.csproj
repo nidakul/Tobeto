@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Tobeto.Core.Persistence">
+      <HintPath>..\..\Tobeto.Core.Persistence\Tobeto.Core.Persistence\bin\Debug\net7.0\Tobeto.Core.Persistence.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

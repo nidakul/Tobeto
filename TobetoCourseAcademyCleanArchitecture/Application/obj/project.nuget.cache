@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qnl/T2Qv7R9cIb7J0TN73BrA1i7aLod8AKesOn84KdgKX2axnCA+dlOeyc0WT6JoUES9sTgoPALmBGxDmCtujg==",
+  "success": true,
+  "projectFilePath": "/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/nida/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/nida/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/nida/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
