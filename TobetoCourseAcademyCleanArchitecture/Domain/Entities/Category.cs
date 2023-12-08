@@ -13,7 +13,7 @@ namespace Domain.Entities
         }
 
         
-        public Category(string name, string description) : base()
+        public Category(string name, string description) : this()
         {
             Name = name;
             Description = description;
