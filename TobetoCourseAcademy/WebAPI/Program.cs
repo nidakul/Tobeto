@@ -13,7 +13,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 //autofac,ninject,castlewindosr,structermap,lightinject,dryinject ---> IoC Container
-//AOP kodun bitiminde, hata verdiðinde çalýþan
+//AOP kodun bitiminde, hata verdiï¿½inde ï¿½alï¿½ï¿½an
 builder.Services.AddSingleton<ICourseService,CourseManager>();
 builder.Services.AddSingleton<ICourseDal,EfCourseDal>();
 
@@ -23,6 +23,16 @@ builder.Services.AddSingleton<ICategoryDal, EfCategoryDal>();
 builder.Services.AddSingleton<IInstructorService, InstructorManager>();
 builder.Services.AddSingleton<IInstructorDal, EfInstructorDal>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("MyCorsPolicy", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -31,6 +41,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("MyCorsPolicy");
+
 
 app.UseHttpsRedirection();
 

@@ -25,12 +25,14 @@ namespace Application.Features.Brands.Commands.Create
 
         public async Task<CreatedBrandResponse> Handle(CreateBrandCommand request, CancellationToken cancellationToken)
         {
+            //request ile gelen nesneleri gerçek brand'e atadık.
             Brand brand = new Brand();
             brand.Name = request.Name;
             brand.Id = Guid.NewGuid(); //id verdi
 
             var createdBrand = await _brandRepository.AddAsync(brand); 
 
+            //brand değerlerimi response ettik
             CreatedBrandResponse createdBrandResponse = new CreatedBrandResponse();
             createdBrandResponse.Id = createdBrand.Id;
             createdBrandResponse.Name = createdBrand.Name;

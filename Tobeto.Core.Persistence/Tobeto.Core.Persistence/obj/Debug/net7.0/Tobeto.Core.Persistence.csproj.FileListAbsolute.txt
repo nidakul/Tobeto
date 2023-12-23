@@ -10,3 +10,15 @@
 /Users/nida/Projects/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/refint/Tobeto.Core.Persistence.dll
 /Users/nida/Projects/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.pdb
 /Users/nida/Projects/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/ref/Tobeto.Core.Persistence.dll
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/bin/Debug/net7.0/Tobeto.Core.Persistence.deps.json
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/bin/Debug/net7.0/Tobeto.Core.Persistence.dll
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/bin/Debug/net7.0/Tobeto.Core.Persistence.pdb
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.csproj.AssemblyReference.cache
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.AssemblyInfoInputs.cache
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.AssemblyInfo.cs
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.csproj.CoreCompileInputs.cache
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.dll
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/refint/Tobeto.Core.Persistence.dll
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/Tobeto.Core.Persistence.pdb
+/Users/nida/Projects/Tobeto/Tobeto.Core.Persistence/Tobeto.Core.Persistence/obj/Debug/net7.0/ref/Tobeto.Core.Persistence.dll

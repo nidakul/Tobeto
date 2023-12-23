@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore.Design;
 
 namespace Persistence.Contexts
 {
+    
     public class DesignTimeDbContextFactory : IDesignTimeDbContextFactory<BaseDbContext>
     {
         public BaseDbContext CreateDbContext(string[] args)
@@ -15,4 +16,5 @@ namespace Persistence.Contexts
         }
     }
 }
+
 

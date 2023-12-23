@@ -1,27 +1,29 @@
 ﻿<Properties StartupConfiguration="{598055C7-49B5-41E9-9A2A-DC6EA56491BA}|http">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Entities/Category.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Persistence/Contexts/BaseDbContext.cs">
     <Files>
-      <File FileName="Persistence/Contexts/BaseDbContext.cs" Line="37" Column="14" />
-      <File FileName="Domain/Entities/Category.cs" Line="21" Column="6" />
-      <File FileName="Persistence/Repositories/CategoryRepository.cs" Line="16" Column="2" />
-      <File FileName="Persistence/PersistenceServiceRegistration.cs" Line="1" Column="1" />
-      <File FileName="Persistence/Contexts/DesignTimeDbContextFactory.cs" Line="19" Column="1" />
+      <File FileName="Persistence/Contexts/BaseDbContext.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="TobetoCourseAcademyCleanArchitecture">
-            <Node name="Application" expanded="True" />
-            <Node name="Domain">
-              <Node name="Entities">
-                <Node name="Category.cs" selected="True" />
+          <Node name="TobetoCourseAcademyCleanArchitecture" expanded="True">
+            <Node name="Application" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Categories" expanded="True">
+                  <Node name="Commands" expanded="True">
+                    <Node name="Create" expanded="True" />
+                  </Node>
+                </Node>
               </Node>
             </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
             <Node name="Persistence" expanded="True">
-              <Node name="Contexts" expanded="True" />
-              <Node name="Repositories" expanded="True" />
+              <Node name="Contexts" expanded="True">
+                <Node name="BaseDbContext.cs" selected="True" />
+              </Node>
             </Node>
             <Node name="WebAPI" expanded="True" />
           </Node>
@@ -29,9 +31,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

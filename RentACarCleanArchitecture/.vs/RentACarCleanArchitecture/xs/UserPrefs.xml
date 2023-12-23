@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{87B210CA-05B3-4CC6-81B3-9D2E69F3B7AC}|http">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Domain/Entities/Brand.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Application/Features/Brands/Commands/Create/CreatedBrandResponse.cs">
     <Files>
       <File FileName="Application/Features/Brands/Commands/Create/CreateBrandCommandHandler.cs" />
-      <File FileName="Application/Features/Brands/Commands/Create/CreatedBrandResponse.cs" />
-      <File FileName="Domain/Entities/Brand.cs" Line="14" Column="1" />
+      <File FileName="Application/Features/Brands/Commands/Create/CreatedBrandResponse.cs" Line="12" Column="1" />
+      <File FileName="Domain/Entities/Brand.cs" />
       <File FileName="Application/Features/Brands/Commands/Create/CreateBrandCommand.cs" />
       <File FileName="Persistence/Repositories/BrandRepository.cs" />
       <File FileName="WebApi/Controllers/BrandsController.cs" />
@@ -20,27 +21,26 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RentACarCleanArchitecture" expanded="True">
-            <Node name="Application" expanded="True">
+            <Node name="Application">
               <Node name="Features" expanded="True">
                 <Node name="Brands" expanded="True">
                   <Node name="Commands" expanded="True">
-                    <Node name="Create" expanded="True" />
+                    <Node name="Create" expanded="True">
+                      <Node name="CreatedBrandResponse.cs" selected="True" />
+                    </Node>
                   </Node>
                 </Node>
               </Node>
             </Node>
             <Node name="Domain" expanded="True">
-              <Node name="Entities" expanded="True">
-                <Node name="Brand.cs" selected="True" />
-              </Node>
+              <Node name="Entities" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

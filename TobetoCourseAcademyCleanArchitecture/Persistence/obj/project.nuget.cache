@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iloleTQSmbrrOfD5UlRWTRB9WJlKzs34fx3iSx+upQI3keYTaoyKCLzjdz8w6etwtm0kt1CsddtJ4R+8go7LoA==",
+  "dgSpecHash": "cyF5lvIeILnxXFPM3/FOzU8Kz+mDIgSSrHax8zR57IA6EuJMwvSsZ5ir+rKRb3oQBMBFtb7p7FTtdBUNVoHu6w==",
   "success": true,
   "projectFilePath": "/Users/nida/Projects/Tobeto/TobetoCourseAcademyCleanArchitecture/Persistence/Persistence.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "/Users/nida/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.14/microsoft.entityframeworkcore.inmemory.7.0.14.nupkg.sha512",
     "/Users/nida/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.14/microsoft.entityframeworkcore.relational.7.0.14.nupkg.sha512",
     "/Users/nida/.nuget/packages/microsoft.entityframeworkcore.sqlserver/7.0.14/microsoft.entityframeworkcore.sqlserver.7.0.14.nupkg.sha512",
+    "/Users/nida/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.14/microsoft.entityframeworkcore.tools.7.0.14.nupkg.sha512",
     "/Users/nida/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/Users/nida/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "/Users/nida/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

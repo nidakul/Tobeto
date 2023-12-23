@@ -1,19 +1,17 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tobeto.Core.Persistence/Repositories/Entity.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tobeto.Core.Persistence/Repositories/IAsyncRepository.cs">
     <Files>
-      <File FileName="Tobeto.Core.Persistence/Repositories/IAsyncRepository.cs" />
-      <File FileName="Tobeto.Core.Persistence/Repositories/Entity.cs" Line="24" Column="6" />
+      <File FileName="Tobeto.Core.Persistence/Repositories/IAsyncRepository.cs" Line="1" Column="1" />
+      <File FileName="Tobeto.Core.Persistence/Repositories/Entity.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Tobeto.Core.Persistence" expanded="True">
-            <Node name="Tobeto.Core.Persistence">
+            <Node name="Tobeto.Core.Persistence" expanded="True">
               <Node name="Repositories" expanded="True">
-                <Node name="Entity.cs" selected="True" />
+                <Node name="IAsyncRepository.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -21,7 +19,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
