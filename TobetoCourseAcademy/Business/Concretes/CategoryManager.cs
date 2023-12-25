@@ -28,7 +28,7 @@ namespace Business.Concretes
             return new SuccessResult(Messages.CategoryAdded);
         }
 
-        public IResult Delete(Category category)
+        public IResult Delete(Category category) 
         {
             _categoryDal.Delete(category);
             return new SuccessResult(Messages.CategoryDeleted);
@@ -36,7 +36,7 @@ namespace Business.Concretes
 
         public IDataResult<List<Category>> GetAll()
         {
-            if (DateTime.Now.Hour == 22)
+            if (DateTime.Now.Hour == 21)
             {
                 return new ErrorDataResult<List<Category>>(Messages.MaintenanceTime);
             }
