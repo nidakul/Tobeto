@@ -1,6 +1,7 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect }  from 'react'
 import { Icon, Label, Menu, Table } from 'semantic-ui-react'
 import ProductService from '../services/productService'
+import { Link, NavLink } from 'react-router-dom'
 
 export default function ProductList() {
 
@@ -12,7 +13,7 @@ export default function ProductList() {
       {
         setbrands(result.data.data)
         console.log(categories);
-    }) 
+    }, []) 
   })  
 
   return (
@@ -28,8 +29,8 @@ export default function ProductList() {
     <Table.Body>
       {
          categories.map((category) => (
-          <Table.Row key={category.id}>
-        <Table.Cell>{category.id}</Table.Cell>
+        <Table.Row key={category.id}>
+        <Table.Cell><Link to={`/Categories/${category.id}`}>{category.id}</Link></Table.Cell>
         <Table.Cell>{category.name}</Table.Cell>
       </Table.Row>
         ))
